@@ -1,2 +1,0 @@
-# quizzziebot
-Simple. Learning. English.
