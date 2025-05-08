@@ -1,0 +1,12 @@
+# Временные файлы docker/vite
+htdocs/**/.env
+htdocs/**/hot*
+
+# Файлы сред разработки
+.vscode
+.fleet
+.idea
+
+# Пакетные файлы / папки
+npm-debug.log
+node_modules
